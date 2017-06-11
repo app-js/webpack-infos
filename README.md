@@ -1,1 +1,1 @@
-# webpack-infos
+# webpack-Ahnungslos im All
